@@ -1,5 +1,5 @@
 {
-  "name": "rapedia",
+  "name": "rapedia-check",
   "description": "Checks if an artist has an entry on rapedia.de",
   "version": "1.0.0",
     "repository" : {
