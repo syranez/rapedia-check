@@ -9,7 +9,7 @@ test("Edgar Wasser has an entry", function (t) {
         t.ok(entry, "edgar Wasser");
     });
     check("edgar wasser", function (error, entry) {
-        t.ok(entry, "edgar wasser");
+        t.ok(entry, "edgar wasser" + entry);
         t.end();
     });
 });
